@@ -127,9 +127,9 @@ function App() {
   const [backgroundColor, setBackgroundColor] = useState('');
   const [textColor, setTextColor] = useState('');
 
-  {/* set the style to be varied, variable textColor and backgroundColor 
+  /* set the style to be varied, variable textColor and backgroundColor 
       dynamically set the color of the page
-  */}
+  */
   return (
     <div id = "root" className="App" style={ { backgroundColor: backgroundColor } }>
       <header className="App-header">
