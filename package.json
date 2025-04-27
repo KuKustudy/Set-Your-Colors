@@ -1,5 +1,5 @@
 {
-  "homepage": "https://KuKustudy.github.io/Set-Your-Colors",
+  "homepage": "https://kukustudy.github.io/Set-Your-Colors/",
   "name": "background_color_picker",
   "version": "0.1.0",
   "private": true,
@@ -8,6 +8,7 @@
     "@testing-library/jest-dom": "^6.6.3",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^2.0.1",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-scripts": "5.0.1",
@@ -37,9 +38,6 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ] 
-  },
-  "devDependencies": {
-    "gh-pages": "^6.3.0"
+    ]
   }
 }
