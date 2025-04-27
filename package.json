@@ -1,5 +1,5 @@
 {
-  "homepage": "https://kukustudy.github.io/Set-Your-Colors",
+  "homepage": "https://KuKustudy.github.io/Set-Your-Colors",
   "name": "background_color_picker",
   "version": "0.1.0",
   "private": true,
@@ -37,7 +37,7 @@
       "last 1 chrome version",
       "last 1 firefox version",
       "last 1 safari version"
-    ]
+    ] 
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
