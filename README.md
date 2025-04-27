@@ -5,6 +5,9 @@ hex code (e.g. #c84e2b).
 This web app use React.js as front-end, and did not use backend framework and 
 database. All codes are stored in the src/App.js file.
 
+This web app is now deployed using GitHub Pages, and serving at https://kukustudy.github.io/Set-Your-Colors/ U+1F355
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
